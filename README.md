@@ -3,6 +3,7 @@
 ## 23a
 ![NKUST](nkust.png "高科大")
 - [ ] To do List
+- [x] 2nd thing
 ```python
 s = "python syntax hightlight"
 print(s)
