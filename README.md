@@ -12,7 +12,7 @@ print(s)
 var s = "JavaScript syntax hightlight";
 alert(s);
 
-|Left|center|right|
-|:-----|:-----:|-----:|
-|Left|center|right|
-|Left|center|right|
+| left  | center | right |
+| :-----| :----: | ----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
