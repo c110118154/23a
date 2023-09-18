@@ -12,10 +12,11 @@ print(s)
 var s = "JavaScript syntax hightlight";
 alert(s);
 ```
+**粗體測試**
+*斜體測試*
+~刪除線測試~
+
 | left  | center | right |
 | :-----| :----: | ----: |
 | 一 | 二 | 三 |
 | 1 | 2 | 3 |
-**粗體測試**
-*斜體測試*
-~刪除線測試~
