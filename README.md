@@ -7,7 +7,12 @@
 ```python
 s = "python syntax hightlight"
 print(s)
+
 ```js
 var s = "JavaScript syntax hightlight";
 alert(s);
 
+|Left|center|right|
+|:-----|:-----:|-----:|
+|Left|center|right|
+|Left|center|right|
