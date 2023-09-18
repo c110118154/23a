@@ -7,11 +7,11 @@
 ```python
 s = "python syntax hightlight"
 print(s)
-
+```
 ```js
 var s = "JavaScript syntax hightlight";
 alert(s);
-
+```
 | left  | center | right |
 | :-----| :----: | ----: |
 | 单元格 | 单元格 | 单元格 |
