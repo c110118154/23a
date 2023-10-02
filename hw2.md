@@ -23,5 +23,6 @@ gantt
 &nbsp;
 
 # PERT圖
+![PERT](nkust.png "高科大")
 
 # 關鍵路徑
