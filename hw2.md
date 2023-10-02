@@ -23,6 +23,6 @@ gantt
 &nbsp;
 
 # PERT圖
-![PERT](hw2_PERT圖.png "PERT圖")
+![PERT](PERT.png "PERT圖")
 
 # 關鍵路徑
